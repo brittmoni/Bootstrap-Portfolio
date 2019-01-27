@@ -1,6 +1,11 @@
-a.navbar-brand {
-    color: #fff;
-    background-color: #33cccc;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+.footer {
+    position: absolute;
+    line-height: 60px;
+    text-align: center;
+    background: #9fa6a6;
+    margin: 20px;
+}
+
+.header {
+    color: #33cccc;
 }
