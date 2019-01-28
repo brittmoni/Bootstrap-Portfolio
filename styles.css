@@ -9,3 +9,8 @@
 .header {
     color: #33cccc;
 }
+
+.navbar-brand {
+    background: #33cccc;
+    padding: 15px;
+}
