@@ -14,3 +14,8 @@
     background: #33cccc;
     padding: 15px;
 }
+
+.carousel-item {
+    width: 1500px;
+    height: 800px; 
+}
