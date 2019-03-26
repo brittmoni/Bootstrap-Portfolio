@@ -16,6 +16,11 @@
 }
 
 .carousel-item {
-    width: 1500px;
-    height: 800px; 
+    width: 1000px;
+    height: 600px;
+    
 }
+
+/* .carousel-inner img {
+    width: 75px;
+} */
