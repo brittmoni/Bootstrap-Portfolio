@@ -1,9 +1,7 @@
-.footer {
-    position: absolute;
-    line-height: 60px;
-    text-align: center;
+.page-footer {
+    /* line-height: 60px;
+    text-align: center; */
     background: #9fa6a6;
-    margin: 20px;
 }
 
 .header {
@@ -30,5 +28,5 @@ ul li {
 
 .figure img {
     width: 500px;
-    height: 500px;
+    height: 400px;
 }
