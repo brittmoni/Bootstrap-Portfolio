@@ -15,10 +15,10 @@
     padding: 15px;
 }
 
-.carousel-item {
+/* .carousel-item {
     width: 1000px;
     height: 600px;
-}
+} */
 
 ul li {
     list-style: none;
@@ -27,3 +27,8 @@ ul li {
 /* .carousel-inner img {
     width: 75px;
 } */
+
+.figure img {
+    width: 500px;
+    height: 500px;
+}
