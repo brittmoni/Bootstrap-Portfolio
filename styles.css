@@ -18,7 +18,10 @@
 .carousel-item {
     width: 1000px;
     height: 600px;
-    
+}
+
+ul li {
+    list-style: none;
 }
 
 /* .carousel-inner img {
